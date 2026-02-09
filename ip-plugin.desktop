@@ -1,0 +1,9 @@
+[Xfce Panel]
+Type=X-XFCE-PanelPlugin
+Encoding=UTF-8
+Name=Public IP
+Comment=Shows your host's public IPv4 address
+Icon=network-wired
+X-XFCE-Module=ip_plugin
+X-XFCE-Internal=FALSE
+X-XFCE-API=2.0
